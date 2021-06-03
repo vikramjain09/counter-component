@@ -1,0 +1,59 @@
+.container {
+  border: 1px solid #a54946;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.decrementDiv {
+  width: 50px;
+  border-right: 1px solid #a54946;
+}
+
+.decrementBtton {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  color: #a54946;
+  font-weight: bolder;
+  font-size: 20px;
+  border: 0;
+  cursor: pointer;
+}
+
+.txtDiv {
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f8e9e9;
+  color: #a54946;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.input {
+  width: 40px;
+  border: 0;
+  background: transparent;
+  color: rgb(165; 73; 70);
+  font-weight: bolder;
+  text-align: center;
+}
+
+.incrementDiv {
+  width: 50px;
+  background: #a54946;
+  height: 101%;
+}
+.incrementButton {
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  border: 0;
+  cursor: pointer;
+}
