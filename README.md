@@ -1,3 +1,7 @@
+# Counter Component
+
+![Counter](screenshot.png)
+
 ### `yarn install`
 
 Install dependencies
